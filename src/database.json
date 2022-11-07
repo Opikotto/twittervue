@@ -1,0 +1,16 @@
+{
+     "tweets": [
+         {
+             "id": 1,
+             "content": "tweets test 1"
+         },
+         {
+             "id": 2,
+             "content": "tweets test 2"
+         },
+         {
+             "id": 3,
+             "content": "tweets test 3"
+         }        
+     ]     
+ }
