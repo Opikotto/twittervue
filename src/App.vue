@@ -214,7 +214,7 @@ export default {
                id: 'home',
                dropdown: false,
                tweets: [
-                    { content: 'test tweets !' }
+                    { content: 'test tweets !' },
                ],
                trending: [
                     { top: 'Trending in Indonesia', title: 'Blackpink', bottom: 'Trending with: Blackpink' },
